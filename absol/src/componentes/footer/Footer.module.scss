@@ -1,0 +1,12 @@
+@import "../../style/variaveis.scss";
+
+.footer{
+    background: rgba(0,29,110,0.25);
+    .subtitulo{
+        font-size: 1rem;
+        color: $branco;
+        text-align: center;
+        font-family: 'Pokemon Solid', sans-serif;
+        letter-spacing: 5px;                                       
+    }
+}
